@@ -15,7 +15,7 @@ Here is a fully responsive landing page, created for:<br>
 > Flex | Grid<br>
 
 ## How to start
-> Fork the repo.<br>
-> Clone the forked one.<br>
-> Run npm install (or just npm i).<br>
-> Run npm start.<br>
+1. Fork the repo.<br>
+2. Clone the forked one.<br>
+3. Run npm install (or just npm i).<br>
+4. Run npm start.<br>
