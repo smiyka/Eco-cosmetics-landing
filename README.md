@@ -1,21 +1,21 @@
-[LANDING DEMO LINK](https://smiyka.github.io/Eco-cosmetics-landing/)
+[LANDING DEMO LINK](https://smiyka.github.io/Eco-cosmetics-landing/)<br>
 [FIGMA DESIGN LINK](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
 
 # About:
-Here is a fully responsive landing page, created for:
-> The design 1440px
-> Desktop 1280px
-> Tablet 640px
-> Mobile (> 320px)
+Here is a fully responsive landing page, created for:<br>
+> The design 1440px<br>
+> Desktop 1280px<br>
+> Tablet 640px<br>
+> Mobile (> 320px)<br>
 
 # Stack:
-> HTML5
-> CSS3 | Sass (SCSS)
-> BEM methodology
-> Flex | Grid
+> HTML5<br>
+> CSS3 | Sass (SCSS)<br>
+> BEM methodology<br>
+> Flex | Grid<br>
 
 # How to start
-> Fork the repo.
-> Clone the forked one.
-> Run npm install (or just npm i).
-> Run npm start.
+> Fork the repo.<br>
+> Clone the forked one.<br>
+> Run npm install (or just npm i).<br>
+> Run npm start.<br>
