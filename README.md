@@ -1,5 +1,5 @@
 [LANDING DEMO LINK](https://smiyka.github.io/Eco-cosmetics-landing/)<br>
-[FIGMA DESIGN LINK](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
+[FIGMA DESIGN LINK](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/Brand-of-eco-cosmetics-_FE-students?node-id=195%3A0)
 
 ## About:
 Here is a fully responsive landing page, created for:<br>
